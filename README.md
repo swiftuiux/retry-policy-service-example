@@ -23,7 +23,3 @@ There are two strategies
         )
 
 ```
-
-## Packages using the package
-
-[Async http client](https://github.com/The-Igor/async-http-client)

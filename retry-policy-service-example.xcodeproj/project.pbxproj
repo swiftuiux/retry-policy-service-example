@@ -375,7 +375,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		781E34FF29B7216D00045C8E /* XCRemoteSwiftPackageReference "retry-policy-service" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/The-Igor/retry-policy-service.git";
+			repositoryURL = "https://github.com/swiftuiux/retry-policy-service.git";
 			requirement = {
 				branch = main;
 				kind = branch;
